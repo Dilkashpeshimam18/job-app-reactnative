@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "constants",
+			"path": "../jobsift-starter/constants"
+		},
+		{
+			"name": "reactnative-jobsearchapp",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
